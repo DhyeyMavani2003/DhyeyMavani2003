@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DhyeyMavani2003
 - 👀 I’m interested in CS, Math, Statistics and Economics
 - 🌱 I’m currently pursuing a bachelor's degree from Amherst College
-- 💞️ I’m looking to collaborate on aby project that may pique my interest
+- 💞️ I’m looking to collaborate on any projects related to Data Science, Analytics and/or Software Engineering
 - 📫 You can reach me at dmavani25@amherst.edu OR ddmavani2003@gmail.com
 
 <!---
