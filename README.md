@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhyey Dharmendrakumar Mavani @DhyeyMavani2003
-- 👀 https://dhyeymavani.com
+- 👀 Visit my Personal Webiste: https://dhyeymavani.com
 - 🌱 I’m currently pursuing a Bachelor of Arts degree from Amherst College with majors in Computer Science and Mathematics, concentrations in Statistics and Economics
-- 💞️ I’m passionate about projects related to Data Science, Analytics and/or Software Engineering and their applications to nature and biology.
+- 💞️ I’m passionate about projects related to Data Science, Analytics and/or Software Engineering and their applications.
 - 📫 You can reach me at dmavani25@amherst.edu OR ddmavani2003@gmail.com
 
 Linkedin Profile Link: https://www.linkedin.com/in/dhyey-mavani/
