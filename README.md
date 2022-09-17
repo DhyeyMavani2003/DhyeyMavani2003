@@ -3,7 +3,8 @@
 
 
 - 👀 Visit my Personal Website: https://dhyeymavani.com
-- 🌱 I’m currently pursuing a Bachelor of Arts degree from Amherst College with majors in Computer Science and Mathematics, concentrations in Statistics and Economics
+- 🌱 I’m currently pursuing a Bachelor of Arts degree from Amherst College with majors in Computer Science, Mathematics and Statistics, concentrations in Economics.
+- 🌱 I'm an incoming Software Development Engineer Intern at Amazon Greater Seattle Area office for Summer 2023.
 - 💞️ I’m passionate about projects related to Data Science, Analytics and/or Software Engineering and their applications.
 - 📫 You can reach me at dmavani25@amherst.edu OR ddmavani2003@gmail.com
 
