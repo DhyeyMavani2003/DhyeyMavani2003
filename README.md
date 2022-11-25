@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Dhyey Mavani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhyeyMavani2003&label=Profile%20views&color=0e75b6&style=flat" alt="DhyeyMavani2003" /> </p>
 
+Welcome to my GitHub Profile! My personal website can be 👀 viewed at https://dhyeymavani.com
 
-- 👀 Visit my Personal Website: https://dhyeymavani.com
 - 🌱 I’m currently pursuing a Bachelor of Arts degree from Amherst College with majors in Computer Science, Mathematics and Statistics, concentration in Economics.
 - 🌱 I'm an incoming Spring 2023 Visiting Student at Columbia University in the City of New York pursuing coursework in Advanced Computer Science, Statistics and Applied Math
 - 🌱 I'm an incoming Software Development Engineer Intern at Amazon in the Greater Seattle Area office for Summer 2023.
