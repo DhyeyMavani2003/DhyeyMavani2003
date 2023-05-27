@@ -1,4 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Dhyey Mavani</h1>
+<iframe src="https://codesandbox.io/embed/readme-intro-gif-forked-i9i14m?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="README intro.gif (forked)"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+></iframe>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhyeyMavani2003&label=Profile%20views&color=0e75b6&style=flat" alt="DhyeyMavani2003" /> </p>
 
 Welcome to my GitHub Profile! My personal website can be 👀 viewed at https://dhyeymavani.com
