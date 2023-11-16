@@ -8,7 +8,7 @@ Welcome to my GitHub Profile! My personal website can be 👀 viewed at https://
 - 🌱 I’m currently pursuing a Bachelor of Arts degree from Amherst College with majors in Computer Science, Mathematics, and Statistics along with a concentration in Economics.
 - 🌱 I'm currently a Software Development Engineer Intern at Amazon (AWS) in the Greater Seattle Area office for Summer 2023 on the AWS CloudFront team.
 - 🌱 I pursued Visiting Students Program at Columbia University in the City of New York during Spring 2023 with coursework in Graduate-level Mathematics and Statistics.
-- 💞️ I’m passionate about Quantitative Trading, Research and Software Development projects.
+- 💞️ I’m passionate about Quantitative Research and Software Development projects.
 - 📫 You can reach me at dmavani25@amherst.edu OR ddmavani2003@gmail.com OR dhyey.mavani@columbia.edu OR ddmavani@mit.edu
 
 <h3 align="left">Connect with me:</h3>
