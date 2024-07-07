@@ -5,11 +5,11 @@
 
 Welcome to my GitHub Profile! My personal website can be 👀 viewed at https://dhyeymavani.com
 
-- 🌱 I’m currently pursuing a Bachelor of Arts degree from Amherst College with majors in Computer Science, Mathematics (Honors), and Statistics (Honors) along with a concentration in Economics.
-- 🌱 I was an AI/ML Software Engineer Intern at LinkedIn in the Sunnyvale, CA Headquarters for Summer 2024 on the Feed AI Relevance Infra team under Model Serving Time initiative.
-- 🌱 I was a Software Development Engineer Intern at Amazon (AWS) in the Greater Seattle Area office for Summer 2023 on the AWS CloudFront team.
-- 🌱 I pursued a study abroad semester at AIT Budapest in Hungary, Europe during Spring 2024 with coursework in Computer Science and Engineering.
-- 🌱 I pursued visiting students program at Columbia University in the City of New York during Spring 2023 with coursework in Graduate-level Mathematics and Statistics.
+- 🌱 Bachelor degree from Amherst College with majors in Computer Science, Mathematics (Honors), and Statistics (Honors) along with a concentration in Economics.
+- 🌱 Ex-AI/ML Software Engineer Intern at LinkedIn in the Sunnyvale, CA Headquarters for Summer 2024 on the Feed AI Relevance Infra team under Model Serving Time initiative.
+- 🌱 Ex-Software Development Engineer Intern at Amazon (AWS) in the Greater Seattle Area office for Summer 2023 on the AWS CloudFront team.
+- 🌱 Study abroad semester at AIT Budapest in Hungary, Europe during Spring 2024 with coursework in Computer Science and Engineering.
+- 🌱 Visiting student at Columbia University in the City of New York during Spring 2023 with coursework in Graduate-level Mathematics and Statistics.
 - 💞️ I’m passionate about Quantitative Research, Software Development, and Holistic Problem-Solving.
 - 📫 You can reach me at dmavani25@amherst.edu OR ddmavani2003@gmail.com
 
