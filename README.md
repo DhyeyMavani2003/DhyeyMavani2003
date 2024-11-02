@@ -5,7 +5,7 @@
 
 Welcome to my GitHub Profile! My personal website can be 👀 viewed at https://dhyeymavani.com
 
-- 🌱 Bachelor degree from Amherst College with majors in Computer Science, Mathematics (Honors), and Statistics (Honors) along with a concentration in Economics.
+- 🏫 Bachelor degree from Amherst College with majors in Computer Science, Mathematics (Honors), and Statistics (Honors) along with a concentration in Economics.
 - 🌱 Ex-AI/ML Software Engineer Intern at LinkedIn in the Sunnyvale, CA Headquarters for Summer 2024 on the Feed AI Relevance Infra team under Model Serving Time initiative.
 - 🌱 Ex-Software Development Engineer Intern at Amazon (AWS) in the Greater Seattle Area office for Summer 2023 on the AWS CloudFront team.
 - 🌱 Study abroad semester at AIT Budapest in Hungary, Europe during Spring 2024 with coursework in Computer Science and Engineering.
