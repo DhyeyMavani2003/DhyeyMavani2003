@@ -10,7 +10,7 @@ Welcome to my GitHub Profile! My personal website can be 👀 viewed at https://
 - 🌱 Ex-Software Development Engineer Intern at Amazon (AWS) in the Greater Seattle Area office for Summer 2023 on the AWS CloudFront team.
 - 🌱 Study abroad semester at AIT Budapest in Hungary, Europe during Spring 2024 with coursework in Computer Science and Engineering.
 - 🌱 Visiting student at Columbia University in the City of New York during Spring 2023 with coursework in Graduate-level Mathematics and Statistics.
-- 💞️ I’m passionate about Quantitative Research, Software Development, and Holistic Problem-Solving.
+- 🌱 I’m passionate about Quantitative Research, Software Development, and Holistic Problem-Solving.
 - 📫 You can reach me at dmavani25@amherst.edu OR ddmavani2003@gmail.com
 
 <h3 align="left">Connect with me:</h3>
