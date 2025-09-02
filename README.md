@@ -21,24 +21,16 @@
 - **Honors Theses**  
   - 🧮 **Mathematics:** Lean4-based Machine-Assisted Proof Framework for Chip-Firing Games & Graphical Riemann–Roch  
   - 📊 **Statistics:** [`ccrvam`](https://pypi.org/project/ccrvam/) [![PyPI Downloads](https://static.pepy.tech/badge/ccrvam)](https://pepy.tech/projects/ccrvam) – Open-source Python package for model-free exploratory analysis of multivariate discrete data. (**Robert H. Breusch Prize** for Best Honors Thesis in Statistics.)
-- Former **President of Amherst Quant Club** & **Founding Director of Engineering @ i2i** (student-led venture studio).
+- Former **President of Amherst Quant Club** ([@ACQuantClub](https://github.com/ACquantclub)) & **Founding Director of Engineering @ i2i** ([@ac-i2i-engineering](https://github.com/ac-i2i-engineering) student-led venture studio).
 - Previously Engineering @ AWS, Quantitative Trading @ Valkyrie Trading
----
-
-## 🛠 Core Expertise
-- **Generative AI & ML:** LLMs, RecSys, CUDA/PyTorch, Model Serving Infra  
-- **Computational Mathematics:** Graph Theory, Discrete Optimization, Number Theory  
-- **Systems & Development:** Rust, Python, C++, Java, API Integration, Distributed Systems  
-- **Quantitative Research:** Monte Carlo Simulations, Risk Models, Time-Series Analysis
-
 ---
 
 ## 🌱 Beyond Code
 Outside work, I’m often:  
 🏸 Playing badminton (Yonex Northeastern Collegiate – 6th in singles, wins vs Harvard/Binghamton)  
-🏹 Practicing archery  
-🌊 Adventuring — jetskiing, ATV riding, bungee jumping, zip-lining  
-🤝 Mentoring students in tech & quant finance
+🏹 Practicing archery
+🏏 All-rounder cricketing enthusiast
+🌊 Adventuring — jetskiing, ATV riding, bungee jumping, zip-lining
 
 ---
 
