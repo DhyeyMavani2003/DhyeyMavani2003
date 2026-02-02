@@ -15,7 +15,8 @@
 ## 🚀 About Me
 - **Software Engineer, Generative AI @ [LinkedIn](https://linkedin.com)**  
   Working on cutting-edge Large Language Model (LLM) & agentic-AI applications powering LinkedIn’s core B2B2C use-cases.
-- Author of [`chipfiring`](https://pypi.org/project/chipfiring/) [![PyPI Downloads](https://static.pepy.tech/badge/chipfiring)](https://pepy.tech/projects/chipfiring) – first dedicated Python package for chip-firing games on multigraphs.
+- First-Authored [`chipfiring`](https://pypi.org/project/chipfiring/) [![PyPI Downloads](https://static.pepy.tech/badge/chipfiring)](https://pepy.tech/projects/chipfiring) – **first** dedicated Python package for chip-firing games on multigraphs.
+- First-Authored [`quantileflow`](https://pypi.org/project/quantileflow/) [![PyPI Downloads](https://static.pepy.tech/badge/quantileflow)](https://pepy.tech/projects/quantileflow) – **state-of-the-art** quantile calculator for service logs. (44% more efficient than Datadog)
 - Selected & sponsored for **Y Combinator’s AI Startup School** – learned directly from Sam Altman, Elon Musk, Satya Nadella, Andrej Karpathy, Fei-Fei Li, and others.  
 - **Triple Major @ [Amherst College](https://amherst.edu)** in Computer Science, Mathematics, and Statistics (2× **Summa Cum Laude**, Phi Beta Kappa, Sigma Xi).
 - **Honors Theses**  
