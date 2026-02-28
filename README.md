@@ -44,3 +44,5 @@ Outside work, I’m often:
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Website" height="30" width="40" />
 </a>
 </p>
+
+Previous affiliations: @aws @minerva-ed @logflow-ai @AmherstCollege @acdmammoths @r-blocks @ac-i2i-engineering @ACQuantClub
